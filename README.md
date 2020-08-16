@@ -9,7 +9,7 @@ I am particularly interested in machine learning ethics and education as well as
 
 ### Highlights
 A few highlights of the projects on my GitHub page:
-* [NNLA](https://github.com/bbleckel/NNLA) —- A brief exploration of single layer perceptrons using matrices
-* [ACO-TSP](https://github.com/bbleckel/ACO-TSP-2017) -- A project from "Nature Inspired Computation" to solve the traveling salesperson problem using Ant Colony Optimization
-* [PSO-Neighborhoods](https://github.com/bbleckel/PSO-Neighborhoods-2017) -- A project from exploring the Particle Swarm Optimization algorithm for heuristic multi-dimensional optimization.
-* [GA-MAXSAT](https://github.com/bbleckel/MAXSAT-2017) -- A project using Genetic Algorithms to solve MAXSAT problems.
+* [NNLA](https://github.com/bbleckel/NNLA) - A brief exploration of single layer perceptrons using matrices
+* [ACO-TSP](https://github.com/bbleckel/ACO-TSP-2017) - A project from "Nature Inspired Computation" to solve the traveling salesperson problem using Ant Colony Optimization
+* [PSO-Neighborhoods](https://github.com/bbleckel/PSO-Neighborhoods-2017) - A project from exploring the Particle Swarm Optimization algorithm for heuristic multi-dimensional optimization.
+* [GA-MAXSAT](https://github.com/bbleckel/MAXSAT-2017) - A project using Genetic Algorithms to solve MAXSAT problems.
