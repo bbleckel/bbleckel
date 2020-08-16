@@ -1,4 +1,9 @@
-### Hi there 👋
+### Bo Bleckel
+
+Hello! Welcome to my GitHub page. Here I have a few of my personal projects that I've worked on over the years.
+
+#### About me
+
 
 <!--
 **bbleckel/bbleckel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
