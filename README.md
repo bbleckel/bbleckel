@@ -13,3 +13,8 @@ A few highlights of the projects on my GitHub page:
 * [ACO-TSP](https://github.com/bbleckel/ACO-TSP-2017) - A project from "Nature Inspired Computation" to solve the traveling salesperson problem using Ant Colony Optimization
 * [PSO-Neighborhoods](https://github.com/bbleckel/PSO-Neighborhoods-2017) - A project exploring the Particle Swarm Optimization algorithm for heuristic multi-dimensional optimization.
 * [GA-MAXSAT](https://github.com/bbleckel/MAXSAT-2017) - A project using Genetic Algorithms to solve MAXSAT problems.
+
+### Places around the web where I've been inspired
+* [The Pudding](https://pudding.cool)
+* [MVIZ](https://mviz.omid.al)
+* [Harvard Berkman Klein Center](https://cyber.harvard.edu)
