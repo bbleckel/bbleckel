@@ -7,6 +7,8 @@ I am a former educator exploring careers and opportunities in software and data 
 I have experience in machine learning, data visualization, and object oriented programming. 
 I am particularly interested in machine learning ethics and education as well as data-driven story telling.
 
+I live in Somerville, MA, studied in Maine, and grew up in Hawaii.
+
 ### Highlights
 A few highlights of the projects on my GitHub page:
 * [NNLA](https://github.com/bbleckel/NNLA) - A brief exploration of single layer perceptrons using matrices
