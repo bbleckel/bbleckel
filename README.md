@@ -15,6 +15,6 @@ A few highlights of the projects on my GitHub page:
 * [GA-MAXSAT](https://github.com/bbleckel/MAXSAT-2017) - A project using Genetic Algorithms to solve MAXSAT problems.
 
 ### Places around the web where I've been inspired
-* [The Pudding](https://pudding.cool){:target="_blank"}
-* [MVIZ](https://mviz.omid.al){:target="_blank"}
-* [Harvard Berkman Klein Center](https://cyber.harvard.edu){:target="_blank"}
+* [The Pudding](https://pudding.cool)
+* [MVIZ](https://mviz.omid.al)
+* [Harvard Berkman Klein Center](https://cyber.harvard.edu)
