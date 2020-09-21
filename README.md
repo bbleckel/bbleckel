@@ -7,6 +7,8 @@ I am a former educator exploring careers and opportunities in software and data 
 I have experience in machine learning, data visualization, and object oriented programming. 
 I am particularly interested in machine learning ethics and education as well as data-driven story telling.
 
+[My resume can be found here](https://github.com/bbleckel/resume.pdf).
+
 I live in Somerville, MA, studied in Maine, and grew up in Hawaii.
 
 ### Highlights
@@ -16,7 +18,7 @@ A few highlights of the projects on my GitHub page:
 * [PSO-Neighborhoods](https://github.com/bbleckel/PSO-Neighborhoods-2017) - A project exploring the Particle Swarm Optimization algorithm for heuristic multi-dimensional optimization.
 * [GA-MAXSAT](https://github.com/bbleckel/MAXSAT-2017) - A project using Genetic Algorithms to solve MAXSAT problems.
 
-### Places around the web where I've been inspired
+### Places around the web that inspire me
 * [The Pudding](https://pudding.cool)
 * [MVIZ](https://mviz.omid.al)
 * [Harvard Berkman Klein Center](https://cyber.harvard.edu)
