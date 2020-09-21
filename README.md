@@ -7,7 +7,7 @@ I am a former educator exploring careers and opportunities in software and data 
 I have experience in machine learning, data visualization, and object oriented programming. 
 I am particularly interested in machine learning ethics and education as well as data-driven story telling.
 
-[My resume can be found here](https://github.com/bbleckel/resume.pdf).
+[My resume can be found here](https://github.com/bbleckel/resume/raw/master/bleckel_resume.pdf).
 
 I live in Somerville, MA, studied in Maine, and grew up in Hawaii.
 
