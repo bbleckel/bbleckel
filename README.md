@@ -22,3 +22,8 @@ A few highlights of the projects on my GitHub page:
 * [The Pudding](https://pudding.cool)
 * [MVIZ](https://mviz.omid.al)
 * [Harvard Berkman Klein Center](https://cyber.harvard.edu)
+
+## Contact
+Email me at <bbleckel@icloud.com> or find me on [LinkedIn](https://www.linkedin.com/in/bo-bleckel-269666100/).
+
+You can also check out my [Instagram](https://www.instagram.com/bobleckel/) to see my photography!
