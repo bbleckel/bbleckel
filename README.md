@@ -24,6 +24,6 @@ A few highlights of the projects on my GitHub page:
 * [Harvard Berkman Klein Center](https://cyber.harvard.edu)
 
 ## Contact
-Email me at <bbleckel@icloud.com> or find me on [LinkedIn](https://www.linkedin.com/in/bo-bleckel-269666100/).
+Email me at <bbleckel@icloud.com> or find me on [LinkedIn](https://www.linkedin.com/in/bbleckel/).
 
 You can also check out my [Instagram](https://www.instagram.com/bobleckel/) to see my photography!
