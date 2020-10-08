@@ -25,7 +25,7 @@ A few highlights of the projects on my GitHub page:
 * [MVIZ](https://mviz.omid.al)
 
 ### Other interesting things about me
-I am an avid backcountry skier, mountain biker, bagel baker, and photographer among many other things. 
+I am an avid backcountry skier, bagel baker, mountain biker, and photographer among many other things. 
 
 ## Contact
 Email me at <bbleckel@icloud.com> or find me on [LinkedIn](https://www.linkedin.com/in/bbleckel/).
