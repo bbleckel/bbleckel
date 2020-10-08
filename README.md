@@ -21,8 +21,8 @@ A few highlights of the projects on my GitHub page:
 
 ### Places around the web that inspire me
 * [The Pudding](https://pudding.cool)
-* [MVIZ](https://mviz.omid.al)
 * [Harvard Berkman Klein Center](https://cyber.harvard.edu)
+* [MVIZ](https://mviz.omid.al)
 
 ### Other interesting things about me
 I am an avid backcountry skier, mountain biker, bagel baker, and photographer among many other things. 
