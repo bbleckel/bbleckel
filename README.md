@@ -5,7 +5,8 @@ Hello! Welcome to my GitHub page. Here I have a few of my personal projects that
 ### About me
 I am a former educator exploring careers and opportunities in software and data science. 
 I have experience in machine learning, data visualization, and object oriented programming. 
-I am particularly interested in machine learning ethics and education as well as data-driven story telling.
+I am particularly interested in machine learning ethics, algorithm fairness, and 
+computer science education as well as data-driven story telling.
 
 [My resume can be found here](https://github.com/bbleckel/resume/blob/master/bleckel_resume.pdf).
 
