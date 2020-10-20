@@ -14,6 +14,7 @@ I live in Somerville, MA, studied in Maine, and grew up in Hawaii.
 
 ### Highlights
 A few highlights of the projects on my GitHub page:
+* [Recreating Images with Triangles that Evolve!](https://github.com/bbleckel/Final-Project) - A project exploring the possiblities of using genetic algorithms combined with particle swarm optimization to recreate images using "smart" triangles. 
 * [NNLA](https://github.com/bbleckel/NNLA) - A brief exploration of single layer perceptrons using matrices
 * [ACO-TSP](https://github.com/bbleckel/ACO-TSP-2017) - A project from "Nature Inspired Computation" to solve the traveling salesperson problem using Ant Colony Optimization
 * [PSO-Neighborhoods](https://github.com/bbleckel/PSO-Neighborhoods-2017) - A project exploring the Particle Swarm Optimization algorithm for heuristic multi-dimensional optimization.
