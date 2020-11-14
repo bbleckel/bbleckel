@@ -3,7 +3,7 @@
 Hello! Welcome to my GitHub page. Here I have a few of my personal projects that I've worked on over the years.
 
 ### About me
-I am a former educator exploring careers and opportunities in software and data science. 
+I am a former educator exploring opportunities in software and data science. 
 I have experience in machine learning, data visualization, network theory, and object oriented programming. 
 I am particularly interested in applied machine learning, algorithmic fairness, and 
 computer science education. I am a fond consumer of data-driven story telling.
