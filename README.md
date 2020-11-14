@@ -10,7 +10,7 @@ computer science education as well as data-driven story telling.
 
 [My resume can be found here](https://github.com/bbleckel/resume/blob/master/bleckel_resume.pdf).
 
-I live in Somerville, MA, studied in Maine, and grew up in Hawaii.
+I live in Massachusetts, studied in Maine, and grew up in Hawaii.
 
 ### Highlights
 A few highlights of the projects on my GitHub page:
