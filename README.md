@@ -4,7 +4,7 @@ Hello! Welcome to my GitHub page. Here I have a few of my personal projects that
 
 ### About me
 I am a former educator working now in software engineering. 
-I am currently a cloud-native Java developer. 
+I am currently a cloud-native Java developer working at IBM. 
 I have experience in machine learning, data visualization, network theory, and object oriented programming. 
 I am particularly interested in applied machine learning, algorithmic fairness, and 
 computer science education. I am a fond consumer of data-driven story telling.
