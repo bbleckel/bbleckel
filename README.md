@@ -9,7 +9,7 @@ I have experience in machine learning, data visualization, network theory, and o
 I am particularly interested in applied machine learning, algorithmic fairness, and 
 computer science education. I am a fond consumer of data-driven story telling.
 
-[My resume can be found here](https://github.com/bbleckel/resume/blob/master/bleckel_resume.pdf).
+[My resume can be found here](https://github.com/bbleckel/resume/blob/master/bleckel_cv.pdf).
 
 I live in Massachusetts, studied in Maine, and grew up in Hawaii.
 
